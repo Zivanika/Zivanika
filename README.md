@@ -1,5 +1,5 @@
 <div id="headeer" align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="350" height="350"/>
+  <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="350" height="350"/>
 </div>
 <h1 align="center">🍀Harshita Barnwal🍀</h1>
 <h3 align="center"><b>Upcoming Software Developer</b></h3>
