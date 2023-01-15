@@ -1,11 +1,13 @@
 <div id="headeer" align="center">
   <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="350" height="350"/>
+  <hr>
 </div>
 <h1 align="center">🍀Harshita Barnwal🍀</h1>
 <h3 align="center"><b>Upcoming Software Developer</b></h3>
   <h3 align="left">🖇About Me:</h3>
   <p>💻Undergrad from KIIT University B.Tech in Computer Science💻</p>
 -🌼I'm currently learning <b>*Java,JavaScript,ML*<b>
+  <br>
 -📠If you wanna reach me-
 <h3 align="left">📌Contact me:</h3>
 <br>
