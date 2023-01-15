@@ -46,8 +46,8 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"/> 
   </a>  -->
 
-  <a href="https://t.snapchat.com/Av5lUfEK" target="_blank"> 
-  <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=Snapchat&logoColor=black" alt="Snapchat Badge"/> 
+<!--   <a href="https://t.snapchat.com/Av5lUfEK" target="_blank"> 
+  <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=Snapchat&logoColor=black" alt="Snapchat Badge"/>  -->
   </a> 
   </div>
    <br>
