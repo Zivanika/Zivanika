@@ -25,5 +25,31 @@
   </div>
    <br>
   
+  <h3 align="left">📌 My Socials:</h3>
+ <br>
+  <div id="badges" align="center"> 
   
+  <a href="https://www.linkedin.com/in/harshita-barnwal-17a732234" target="_blank"> 
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
+  </a> 
+<!--   <a href="https://www.facebook.com/ekansh.jaiswal.796" target="_blank"> 
+  <img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/> 
+  </a>  -->
+<a href="https://open.spotify.com/user/3162o3m2gbzmrc2aa3zprrc6fpny" target="_blank">
+    <img src ="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
+    alt="Spotify Badge" />
+  </a>
+<a href="https://www.instagram.com/harshitabarnwal009/" target="_blank"> 
+<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/> 
+</a>
+<!--  <a href="https://twitter.com/_TheColdSmoker_" target="_blank"> 
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"/> 
+  </a>  -->
+
+  <a href="https://t.snapchat.com/Av5lUfEK" target="_blank"> 
+  <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=Snapchat&logoColor=black" alt="Snapchat Badge"/> 
+  </a> 
+  </div>
+   <br>
+
            
