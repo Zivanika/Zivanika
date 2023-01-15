@@ -1,5 +1,5 @@
 <div id="headeer" align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" height="400"/>
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="3500" height="350"/>
 </div>
 <h1 align="center">🍀Harshita Barnwal🍀</h1>
 <h3 align="center"><b>Upcoming Software Developer</b></h3>
