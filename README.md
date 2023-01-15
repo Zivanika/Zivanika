@@ -15,7 +15,15 @@
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=21052665@kiit.ac.in&su=SUBJECT&body=BODY" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
-
+<a href="https://t.me/Vengix"> 
+    <img src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=Telegram&logoColor=white"alt="Telegram Badge" /> 
+  </a> 
+   <a href="https://wa.link/y7e6yz" target="_blank"> 
+    <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white" alt="WhatsApp Badge"/> 
+</a>
+  
+  </div>
+   <br>
   
   
            
