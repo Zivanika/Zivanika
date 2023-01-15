@@ -1,5 +1,5 @@
 <div id="headeer" align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="350" height="350"/>
+  <img src="https://media1.giphy.com/media/6EWyszhJ2kL3ceQuD2/giphy.gif" width="350" height="350"/>
 </div>
 <h1 align="center">🍀Harshita Barnwal🍀</h1>
 <h3 align="center"><b>Upcoming Software Developer</b></h3>
