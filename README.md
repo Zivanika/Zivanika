@@ -35,7 +35,7 @@
 <!--   <a href="https://www.facebook.com/ekansh.jaiswal.796" target="_blank"> 
   <img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/> 
   </a>  -->
-<a href="https://open.spotify.com/user/3162o3m2gbzmrc2aa3zprrc6fpny" target="_blank">
+<a href="https://open.spotify.com/user/31ezxbbcnbdeo2l3gpcdcttooeny" target="_blank">
     <img src ="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
     alt="Spotify Badge" />
   </a>
