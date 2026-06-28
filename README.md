@@ -4,7 +4,7 @@
 <!-- TYPING INTRO -->
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Harshita+Barnwal;Computer+Science+Graduate;Learning+Python%2C+JavaScript;Always+building+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Harshita+Barnwal;Computer+Science+Graduate;Learning+Django%2C+FastAPI;Always+building+something+new" alt="Typing SVG" />
 
 </div>
 
@@ -14,7 +14,7 @@
 - 🎓 Graduated from **KIIT University**
 - 💻 B.Tech in **Computer Science**
 - 💼 **Software Developer**
-- 🌱 Currently learning **Python**, **JavaScript** & **Mobile Development**
+- 🌱 Currently learning **Django**, **FastAPI** & **Mobile Development**
 - 📫 Reach me through the links below
 
 <!-- CONTACT -->
